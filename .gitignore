@@ -1,0 +1,8 @@
+*/*/*/data/
+*/*/*/output_dir/
+*/*/*/model.pk*
+*/*/*/*.gz
+*/*/*/images/
+*/*/*/model/*
+*/*/*/model_test/*
+*/*/*/*/images/
